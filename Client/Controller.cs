@@ -16,7 +16,7 @@ namespace Client
 		{
 			try
 			{
-				RestApiBase.InitializeClient("http://localhost:5000/api/"); // init la connexion au serveur
+				RestApiBase.InitializeClient("http://localhost:5000/api/"); // init la connexion au serveur 
 			}
 			catch
 			{
